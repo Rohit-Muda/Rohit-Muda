@@ -1,5 +1,6 @@
 <div align="center"><h1><b>Rohit Muda</b></h1></div>
 
+<div><a href="https://komarev.com/ghpvc/?username=Rohit-Muda"></a></div>
 ## About Me
 I am a Full-Stack Developer and Data Science enthusiast with a strong interest in building scalable, data-driven applications. I am currently focusing on AI automation and intelligent agents, with the goal of integrating modern full-stack systems with machine learning and analytical workflows.
 
