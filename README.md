@@ -1,16 +1,36 @@
-<div align="center"><h1><b>Rohit Muda</b></h1></div>
+<h1 align="center">Hi, I'm Rohit Muda</h1>
+<h3 align="center">
+Full-Stack Developer | Data Science and AI Automation Enthusiast 
+</h3>
 
-<div><a href="https://komarev.com/ghpvc/?username=Rohit-Muda"></a></div>
-## About Me
-I am a Full-Stack Developer and Data Science enthusiast with a strong interest in building scalable, data-driven applications. I am currently focusing on AI automation and intelligent agents, with the goal of integrating modern full-stack systems with machine learning and analytical workflows.
+<p align="center">
+  <a href="https://github.com/Rohit-Muda" target="_blank">
+    <img 
+      src="https://komarev.com/ghpvc/?username=Rohit-Muda&label=Profile%20Views&color=red&style=flat" 
+      alt="Rohit Muda GitHub Profile Views"
+    />
+  </a>
+</p>
 
-I enjoy solving real-world problems by combining web engineering, data science, and AI, and I continuously work on strengthening my technical depth.
+---
 
-## Contact
-- Email: mudarohit121@gmail.com  
-- LinkedIn: https://linkedin.com/in/muda-rohit  
+## 🚀 About Me
 
-## 💻 Tech Stack
+Welcome to my GitHub profile. I’m a **Full-Stack Developer and Data Science enthusiast** focused on building **scalable, data-driven applications**.
+
+I enjoy solving **real-world problems** by combining **web engineering, data science, and AI**, while continuously strengthening my technical depth and system-level thinking.
+
+- 🔭 Currently working on **Full-Stack Systems, AI Automation, and Data-Driven Applications**
+- 🌱 Learning **AI Agents and Backend Scalability**
+- 💬 Ask me about **React, MERN Stack, Data Science, and AI-powered workflows**
+- ⚙️ Strong believer in **clean code, practical systems, and continuous improvement**
+
+📫 Reach me at: **[mudarohit121@gmail.com](mailto:mudarohit121@gmail.com)**  
+🔗 LinkedIn: **https://linkedin.com/in/muda-rohit**
+
+---
+
+## 🧰 Languages & Tools
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -34,38 +54,50 @@ I enjoy solving real-world problems by combining web engineering, data science, 
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
+---
+
 ## 🚀 Projects
 
-**Eventrix** — AI-powered event organizing application with automated event content generation and full-stack event management.  
-*Tech:* React, Next.js, Convex, Clerk
+**Eventrix** — AI-powered event organizing platform with automated content generation and full-stack event management.  
+*Tech:* React, Next.js, Convex, Clerk  
 
-**LangBride** — Language learning platform focused on structured content delivery and user-friendly learning workflows.  
-*Tech:* React, JavaScript, Node.js, MongoDB
+**LangBride** — Language learning platform focused on structured content delivery and intuitive learning workflows.  
+*Tech:* React, JavaScript, Node.js, MongoDB  
 
-**NoteCraft** — Lightweight note-taking application with clean UI and efficient data storage for productivity-focused users.  
-*Tech:* React, Node.js, Express.js, MongoDB
+**NoteCraft** — Lightweight note-taking application with a clean UI and efficient backend storage for productivity use cases.  
+*Tech:* React, Node.js, Express.js, MongoDB  
 
-## GitHub Activity
-I actively work on projects related to full-stack development and data-driven systems, focusing on clean code, practical implementations, and continuous learning.
+---
 
-![](https://github-readme-stats.vercel.app/api?username=Rohit-Muda&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Rohit-Muda&theme=shadow_blue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohit-Muda&theme=shadow_blue&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats & Activity
 
+<p align="center">
+  <a href="https://github.com/Rohit-Muda">
+    <img 
+      src="https://nirzak-streak-stats.vercel.app/?user=Rohit-Muda&theme=shadow_blue" 
+      alt="GitHub Streak"
+    />
+  </a>
+</p>
 
-## LeetCode Activity
+---
 
-<div >
+## 🧠 LeetCode Activity
+
+<p align="center">
   <a href="https://leetcode.com/u/Rohit_muda/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" 
-         alt="LeetCode 50 Days Badge" 
-         width="100" height="100" />
+    <img 
+      src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" 
+      alt="LeetCode 50 Days Badge" 
+      width="100" 
+    />
   </a>
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Rohit_muda/" target="_blank">
-    <img src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" 
-         alt="LeetCode 100 Days Badge" 
-         width="100" height="100" />
+    <img 
+      src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" 
+      alt="LeetCode 100 Days Badge" 
+      width="100" 
+    />
   </a>
-</div>
-
+</p>
