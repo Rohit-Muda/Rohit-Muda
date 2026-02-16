@@ -20,10 +20,10 @@ Welcome to my GitHub profile. I’m a **Full-Stack Developer and Data Science en
 
 I enjoy solving **real-world problems** by combining **web engineering, data science, and AI**, while continuously strengthening my technical depth and system-level thinking.
 
-- 🔭 Currently working on **Full-Stack Systems, AI Automation, and Data-Driven Applications**
-- 🌱 Learning **AI Agents and Backend Scalability**
-- 💬 Ask me about **React, MERN Stack, Data Science, and AI-powered workflows**
-- ⚙️ Strong believer in **clean code, practical systems, and continuous improvement**
+- Currently working on **Full-Stack Systems, AI Automation, and Data-Driven Applications**
+- Learning **AI Agents and Backend Scalability**
+- Ask me about **React, MERN Stack, Data Science, and AI-powered workflows**
+- Strong believer in **clean code, practical systems, and continuous improvement**
 
 📫 Reach me at: **[mudarohit121@gmail.com](mailto:mudarohit121@gmail.com)**  
 🔗 LinkedIn: **https://linkedin.com/in/muda-rohit**
@@ -72,19 +72,24 @@ I enjoy solving **real-world problems** by combining **web engineering, data sci
 ## 📊 GitHub Stats & Activity
 
 <p align="center">
-  <a href="https://github.com/Rohit-Muda">
-    <img 
-      src="https://nirzak-streak-stats.vercel.app/?user=Rohit-Muda&theme=shadow_blue" 
-      alt="GitHub Streak"
-    />
+   <a href="https://github.com/Rohit_Muda" title="GitHub Streak">
+    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rohit-Muda&theme=tokyonight" alt="GitHub Streak" />
   </a>
 </p>
 
 ---
 
-## 🧠 LeetCode Activity
-
+## 📊 GitHub Contribution Graph
 <p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Muda&theme=react-dark" alt="GitHub Contribution Graph" />
+</p>
+
+---
+
+## 🧠 LeetCode Activity
+<p>
+  <img src="https://leetcard.jacoblin.cool/Rohit_muda?theme=nord" alt="GitHub Contribution Graph" />
+
   <a href="https://leetcode.com/u/Rohit_muda/" target="_blank">
     <img 
       src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" 
