@@ -81,7 +81,7 @@ I enjoy solving **real-world problems** by combining **web engineering, data sci
 
 ## 📊 GitHub Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Muda&theme=react-dark" alt="GitHub Contribution Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Muda&theme=tokyo-night" alt="GitHub Contribution Graph" />
 </p>
 
 ---
