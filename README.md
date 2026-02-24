@@ -88,7 +88,7 @@ I enjoy solving **real-world problems** by combining **web engineering, data sci
 
 ## 🧠 LeetCode Activity
 <p>
-  <img src="https://leetcard.jacoblin.cool/Rohit_muda?theme=nord" alt="GitHub Contribution Graph" />
+  <img src="https://leetcard.jacoblin.cool/Rohit_muda?theme=nord" alt="Leetcode Activity Stats" />
 
   <a href="https://leetcode.com/u/Rohit_muda/" target="_blank">
     <img 
