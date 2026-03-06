@@ -87,9 +87,9 @@ I enjoy solving **real-world problems** by combining **web engineering, data sci
 ---
 
 ## 🧠 LeetCode Activity
-<p>
+<p align='center'>
   <img src="https://leetcard.jacoblin.cool/Rohit_muda?theme=nord" alt="Leetcode Activity Stats" />
-
+  <br/>
   <a href="https://leetcode.com/u/Rohit_muda/" target="_blank">
     <img 
       src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" 
@@ -101,6 +101,22 @@ I enjoy solving **real-world problems** by combining **web engineering, data sci
   <a href="https://leetcode.com/u/Rohit_muda/" target="_blank">
     <img 
       src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" 
+      alt="LeetCode 100 Days Badge" 
+      width="100" 
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Rohit_muda/" target="_blank">
+    <img 
+      src="https://assets.leetcode.com/static_assets/marketing/2.gif" 
+      alt="LeetCode 100 Days Badge" 
+      width="100" 
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Rohit_muda/" target="_blank">
+    <img 
+      src="https://assets.leetcode.com/static_assets/others/2550.gif" 
       alt="LeetCode 100 Days Badge" 
       width="100" 
     />
