@@ -92,7 +92,7 @@ I enjoy solving **real-world problems** by combining **web engineering, data sci
   <br/>
   <a href="https://leetcode.com/u/Rohit_muda/" target="_blank">
     <img 
-      src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" 
+      src="https://assets.leetcode.com/static_assets/others/2550.gif"
       alt="LeetCode 50 Days Badge" 
       width="100" 
     />
@@ -100,7 +100,7 @@ I enjoy solving **real-world problems** by combining **web engineering, data sci
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Rohit_muda/" target="_blank">
     <img 
-      src="https://assets.leetcode.com/static_assets/marketing/2024-100.gif" 
+      src="https://assets.leetcode.com/static_assets/others/25100.gif" 
       alt="LeetCode 100 Days Badge" 
       width="100" 
     />
