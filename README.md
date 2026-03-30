@@ -116,7 +116,7 @@ I enjoy solving **real-world problems** by combining **web engineering, data sci
   &nbsp;&nbsp;
   <a href="https://leetcode.com/u/Rohit_muda/" target="_blank">
     <img 
-      src="https://assets.leetcode.com/static_assets/others/2550.gif" 
+      src="https://assets.leetcode.com/static_assets/others/50.gif" 
       alt="LeetCode 100 Days Badge" 
       width="100" 
     />
