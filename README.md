@@ -1,7 +1,5 @@
 <h1 align="center">Rohit Muda</h1>
-<p align="center">
-  <img src="profile.png" width="140" style="border-radius:50%" alt="Rohit Muda" />
-</p>
+
 <h3 align="center">Full-Stack Developer · Data Science & AI Automation</h3>
 
 <p align="center">
