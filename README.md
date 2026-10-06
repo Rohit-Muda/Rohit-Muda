@@ -65,18 +65,19 @@ I build full-stack, data-driven products end to end, from clean interfaces on th
   </a>
   <a href="https://github.com/Rohit-Muda">
     <img
-      src="https://github-readme-streak-stats-eight.vercel.app/?user=Rohit-Muda&theme=tokyonight&hide_border=true"
-      alt="Rohit's GitHub Streak"
-      height="180"
-    />
-  </a>
-  <a href="https://github.com/Rohit-Muda">
-    <img
       src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rohit-Muda&theme=tokyonight&hide_border=true&layout=compact"
       alt="Rohit's Most Used Languages"
       height="180"
     />
   </a>
+  <a href="https://github.com/Rohit-Muda">
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=Rohit-Muda&theme=tokyonight&hide_border=true"
+      alt="Rohit's GitHub Streak"
+      height="180"
+    />
+  </a>
+  
 </p>
 
 
