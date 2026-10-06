@@ -56,18 +56,40 @@ I build full-stack, data-driven products end to end, from clean interfaces on th
 ### GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Rohit-Muda" title="View Rohit's GitHub profile">
-    <img src="https://github-readme-streak-stats-eight.vercel.app/?user=Rohit-Muda&theme=tokyonight&hide_border=true" alt="Rohit's GitHub Streak" />
+  <a href="https://github.com/Rohit-Muda">
+    <img
+      src="https://github-stats-extended.vercel.app/api?username=Rohit-Muda&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github"
+      alt="Rohit's GitHub Statistics"
+      height="180"
+    />
+  </a>
+  <a href="https://github.com/Rohit-Muda">
+    <img
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=Rohit-Muda&theme=tokyonight&hide_border=true"
+      alt="Rohit's GitHub Streak"
+      height="180"
+    />
+  </a>
+  <a href="https://github.com/Rohit-Muda">
+    <img
+      src="https://github-stats-extended.vercel.app/api/top-langs/?username=Rohit-Muda&theme=tokyonight&hide_border=true&layout=compact"
+      alt="Rohit's Most Used Languages"
+      height="180"
+    />
   </a>
 </p>
 
+
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Muda&theme=github-compact&hide_border=true&radius=10&area=true&custom_title=Rohit's%20Contribution%20Graph" alt="Rohit's GitHub Contribution Graph" />
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Rohit-Muda&theme=github-compact&hide_border=true&radius=10&area=true&custom_title=Contribution%20Activity"
+    alt="Rohit's GitHub Contribution Graph"
+  />
 </p>
 
 ---
 
-### LeetCode
+### LeetCode Activity
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Rohit_muda?theme=dark&font=baloo2&ext=heatmap" alt="LeetCode stats" />
